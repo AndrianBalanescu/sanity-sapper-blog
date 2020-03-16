@@ -1,3 +1,5 @@
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/Flomastermod/sanity-sapper-blog) 
+
 # Blog with Sapper
 
 _Fully customizable blog template with a Svelte.js front-end._
